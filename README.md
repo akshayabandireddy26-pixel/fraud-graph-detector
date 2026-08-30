@@ -1,5 +1,4 @@
-git init
-cat << 'EOF' > README.md
+
 # Fraud Graph Detector API
 
 A lightweight, high-performance FastAPI service designed to detect suspicious circular money flows (money laundering loops) using graph-based cycle detection algorithms (Depth First Search).
