@@ -14,3 +14,6 @@ A lightweight, high-performance FastAPI service designed to detect suspicious ci
 EOF
 git add .
 git commit -m "Initial commit with Fraud Graph Detector and README"
+
+## Live Demo & Testing 
+https://fraud-graph-detector.onrender.com/docs
